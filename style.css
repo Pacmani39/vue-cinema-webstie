@@ -11,8 +11,7 @@ a{
 }
 
 body{
-    background-color: rgb(211, 29, 29);
-    color: aqua;
+    background-color: rgb(34, 34, 34);
     display: grid;
 }
 .nab{
